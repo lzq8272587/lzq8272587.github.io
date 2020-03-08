@@ -4,6 +4,8 @@ I left **Tencent Media Lab** in November 2019. Now I am working at Institute for
 
 # Research Topics
 
+Mobile Computing, Multimedia Streaming, Hybrid Satellite/Terrestrial Networks.
+
 # Publications
 
 
