@@ -65,9 +65,9 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 
 # Misc
 
-Tuchong：[http://tuchong.com/487459/](http://tuchong.com/487459/).
-Facebook：[https://www.facebook.com/zeqi.lai](https://www.facebook.com/zeqi.lai).
-500px: [https://500px.com/uestclzq](https://500px.com/uestclzq).
+*  Tuchong：[http://tuchong.com/487459/](http://tuchong.com/487459/).
+*  Facebook：[https://www.facebook.com/zeqi.lai](https://www.facebook.com/zeqi.lai).
+*  500px: [https://500px.com/uestclzq](https://500px.com/uestclzq).
 
 # In the Press
 *  [New ‘Furion’ software allows untethered high-quality VR.](https://www.purdue.edu/newsroom/releases/2017/Q4/new-furion-software-allows-untethered-high-quality-vr.html)
