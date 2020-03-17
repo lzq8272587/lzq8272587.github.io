@@ -1,5 +1,5 @@
 
-![Avatar](./avatar.png)
+![Avatar](./avatar-small.png)
 
 # News
 
