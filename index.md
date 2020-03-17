@@ -1,3 +1,6 @@
+
+![Avatar](./avatar.png)
+
 # News
 
 I left **Tencent Media Lab** in November 2019. Now I am working at Institute for Network Sciences and Cyberspace, Tsinghua University.
