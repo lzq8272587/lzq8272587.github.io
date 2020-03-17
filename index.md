@@ -26,7 +26,7 @@ Mobile Computing, Multimedia Streaming, Hybrid Satellite/Terrestrial Networks.
 
 9. `Lai, Zeqi`, et al. “Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing.” Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos. ACM, 2018.
 
-#Journals & Magazines
+# Journals & Magazines
 
 1. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017, (first student author!).
 
@@ -35,7 +35,7 @@ and challenges. IEEE Network, 30(4), 2016, (first student author!).
 
 3. Yong Cui, Shihan Xiao, Xin Wang, `Zeqi Lai`, Zhenjie Yang, Minming Li, and Hongyi Wang. “Performance-aware energy optimization on mobile devices in cellular network.” IEEE Transactions on Mobile Computing 16, no. 4 (2017): 1073-1089.
 
-#Awards
+# Awards
 *  2018.6 北京市优秀毕业生
 *  2018.6 清华大学优秀毕业生
 *  2018.6 清华大学计算机系优秀毕业生
@@ -45,10 +45,10 @@ and challenges. IEEE Network, 30(4), 2016, (first student author!).
 *  2015.9 National Scholarship, Tsinghua University
 *  2010-2012 National Scholarship, UESTC
 
-#Skills
+# Skills
 Android, Java, C/C++, Matlab, Unity 3D, Origin.
 
-#Authorized Patents
+# Authorized Patents
 
 *  A bandwidth allocation method, CN103686874B, `Zeqi Lai`, Yong Cui and Shihan Xiao.
 *  崔勇, `赖泽祺`, 戴柠薇. 面向个人云存储传输的数据确认方法: 中国, 2014107650123. (已公开)
@@ -69,7 +69,7 @@ Tuchong：[http://tuchong.com/487459/](http://tuchong.com/487459/).
 Facebook：[https://www.facebook.com/zeqi.lai](https://www.facebook.com/zeqi.lai).
 500px: [https://500px.com/uestclzq](https://500px.com/uestclzq).
 
-#In the Press
+# In the Press
 *  [New ‘Furion’ software allows untethered high-quality VR.](https://www.purdue.edu/newsroom/releases/2017/Q4/new-furion-software-allows-untethered-high-quality-vr.html)
 *  [New software brings high-quality VR to smartphones.](https://www.hostingadvice.com/blog/purdue-develops-furion-to-enable-vr-on-mobile-devices/)
 *  [Purdue Researchers Develop Furion® — A New VR Framework Enabling High-Quality Virtual Reality on Mobile Devices.](https://www.theengineer.co.uk/software-high-quality-vr-smartphones/)
