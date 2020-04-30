@@ -8,7 +8,6 @@
 
 ## Usage
 
-
 To use the Hacker theme:
 
 1. Add the following to your site's `_config.yml`:
