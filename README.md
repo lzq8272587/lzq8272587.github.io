@@ -82,6 +82,7 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 
 For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
+
 ## Roadmap
 
 See the [open issues](https://github.com/pages-themes/hacker/issues) for a list of proposed features (and known issues).
