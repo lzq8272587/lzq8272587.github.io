@@ -11,6 +11,8 @@ Mobile Computing, Multimedia Streaming, Hybrid Satellite/Terrestrial Networks.
 
 # Conference Papers
 
+1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020.(CCF Rank B.)
+
 1. `Zeqi Lai`, Yong Cui, Ziyi Wang, and Xiaoyu Hu. Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing. In SIGCOMM demo&poster session. ACM, 2018.
 
 2. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. In MOBICOM. ACM, 2017, (Acceptance Rate 35/189=18%).
@@ -25,18 +27,30 @@ Mobile Computing, Multimedia Streaming, Hybrid Satellite/Terrestrial Networks.
 
 7. Yong Cui, Shihan Xiao, Xin Wang, Minming Li, Hongyi Wang, and `Zeqi Lai`. Performance-aware energy optimization on mobile devices in cellular network. In INFOCOM. IEEE, 2014, (Acceptance Rate 320/1645=19%).
 
-8. Wang, Ziyi, Yong Cui, and `Zeqi Lai`. “A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges.” arXiv preprint arXiv:1807.08829 (2018).
+8. Ziyi Wang, Yong Cui, and `Zeqi Lai`. “A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges.” arXiv preprint arXiv:1807.08829 (2018).
 
-9. `Lai, Zeqi`, et al. “Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing.” Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos. ACM, 2018.
+9. `Zeqi Lai`, et al. “Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing.” Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos. ACM, 2018.
+
+10. Siyu Yang, Hewu Li, `Zeqi Lai`, Jun Liu, A Synergic Architecture for Content Distribution in Integrated Satellite and Terrestrial Networks, 2020 IEEE/CIC International Conference on Communications in China (ICCC), Chongqing, China, 2020, pp. 96-101. (Corresponding author.)
+
+11. Jiang Zhou, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, SR-TPP: Extending IPv6 Segment Routing to enable Trusted and Private Network Paths, 2020 IEEE Symposium on Computers and Communications (ISCC), Rennes, France, 2020, pp. 1-6.
 
 # Journals & Magazines
 
-1. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017, (first student author!).
+1. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. IEEE Transactions on Mobile Computing, 2019. (CCF Rank A.)
 
-2. Yong Cui, `Zeqi Lai`, and Ningwei Dai. A first look at mobile cloud storage services: architecture, experimentation,
+2. Yong Cui, Yimin Jiang, `Zeqi Lai`, Xiaomeng Chen, Y.Charlie Hu, Kun Tan, Minglong Dai, and Kai Zheng. Wireless network instabilities in the wild: Prevalence, app (non)resilience, and os remedy. IEEE Transactions on Networking, 2018. (CCF Rank A, corresponding author.)
+
+3. Yong Cui, Ningwei Dai, `Zeqi Lai`, Minming Li, Zhenhua Li, Yuming Hu, Kui Ren, Yuchi Chen. TailCutter: Wisely Cutting Tail Latency in Cloud CDNs Under Cost Constraints. IEEE Transactions on Networking, 2019. (CCF Rank A, corresponding author.)
+
+4. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017, (first student author!).
+
+5. Yong Cui, `Zeqi Lai`, and Ningwei Dai. A first look at mobile cloud storage services: architecture, experimentation,
 and challenges. IEEE Network, 30(4), 2016, (first student author!).
 
-3. Yong Cui, Shihan Xiao, Xin Wang, `Zeqi Lai`, Zhenjie Yang, Minming Li, and Hongyi Wang. “Performance-aware energy optimization on mobile devices in cellular network.” IEEE Transactions on Mobile Computing 16, no. 4 (2017): 1073-1089.
+6. Yong Cui, Shihan Xiao, Xin Wang, `Zeqi Lai`, Zhenjie Yang, Minming Li, and Hongyi Wang. “Performance-aware energy optimization on mobile devices in cellular network.” IEEE Transactions on Mobile Computing 16, no. 4 (2017): 1073-1089.
+
+7. 崔勇, `赖泽祺`, 缪葱葱. 移动云存储服务关键技术研究. 中兴通讯技术, 2015, 21(2): 10-13.
 
 # Awards
 *  2018.6 北京市优秀毕业生
@@ -50,6 +64,15 @@ and challenges. IEEE Network, 30(4), 2016, (first student author!).
 
 # Skills
 Android, Java, C/C++, Matlab, Unity 3D, Origin.
+
+# Education
+*  2013.9–2018.7, PhD，Tsinghua University，Computer Science and Technology，Advisor: Prof. Yong Cui.
+*  2016.9–2017.9, Visiting Scholar，Purdue University，West Lafayette, U.S.，School of Electrical and Computer Engineering, Advisor: Prof. Y.Charlie Hu.
+*  2009.9–2013.7, Bachelor，University of Electrical and Science Technology of China，Computer Science and Engineering，Information Security.
+
+# Working Experience
+*  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
+*  2019.12-Now, Assistant Researcher, Institute for Network Sciences and Cyberspace, Tsinghua University.
 
 # Authorized Patents
 
