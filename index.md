@@ -2,11 +2,11 @@
 ![Avatar](./avatar-small.png)
 
 
-**Email:** zeqilai@tsinghua.edu.cn.
+**Email:** zeqilai@tsinghua.edu.cn
 
 # News
 
-* We made a tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html).
+* Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html).
 
 * I left **Tencent Media Lab** in November 2019. Now I am working at Institute for Network Sciences and Cyberspace, Tsinghua University.
 
@@ -114,8 +114,9 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 *  500px: [https://500px.com/uestclzq](https://500px.com/uestclzq).
 
 # In the Press
-*  
+
 *  [清华大学网络研究院在ACM SIGCOMM 2021成功举办天地一体化网络学术讲座.](https://www.insc.tsinghua.edu.cn/info/1132/1574.htm)
+*  [New ‘Furion’ software allows untethered high-quality VR.](https://www.purdue.edu/newsroom/releases/2017/Q4/new-furion-software-allows-untethered-high-quality-vr.html)
 *  [New software brings high-quality VR to smartphones.](https://www.hostingadvice.com/blog/purdue-develops-furion-to-enable-vr-on-mobile-devices/)
 *  [Purdue Researchers Develop Furion® — A New VR Framework Enabling High-Quality Virtual Reality on Mobile Devices.](https://www.theengineer.co.uk/software-high-quality-vr-smartphones/)
 
