@@ -7,11 +7,17 @@ I left **Tencent Media Lab** in November 2019. Now I am working at Institute for
 
 # Research Topics
 
-Mobile Computing, Multimedia Streaming, Hybrid Satellite/Terrestrial Networks.
+Integrated Space and Terrstrial Networks, Mobile Computing, Multimedia Streaming.
 
 # Conference Papers
 
-1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020.(CCF Rank B.)
+1. `Zeqi Lai`, Hewu Li, Qi Zhang, Qian Wu, and Jianping Wu. Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds. In IEEE ICNP, 2021 (to appear).
+
+1. `Zeqi Lai`, Qian Wu, Hewu Li, Mingyang Lv, Jianping Wu. ORBITCAST: Exploiting Mega-Constellations for Low-Latency Earth Observation. In IEEE ICNP, 2021 (to appear).
+
+1. Yuanjie Li, Hewu Li, Lixin Liu, Wei Liu, Jiayi Liu, Jianping Wu, Qian Wu, Jun Liu, and `Zeqi Lai`. "Internet in Space" for Terrestrial Users via Cyber-Physical Convergence. In ACM HotNets, 2021 (to appear).
+
+1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020.
 
 1. `Zeqi Lai`, Yong Cui, Ziyi Wang, and Xiaoyu Hu. Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing. In SIGCOMM demo&poster session. ACM, 2018.
 
@@ -74,19 +80,26 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 *  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
 *  2019.12-Now, Assistant Researcher, Institute for Network Sciences and Cyberspace, Tsinghua University.
 
+
+# Projects
+
+* 国家重点研发计划(National Key Research and Development Program), 面向天地一体化空间智能计算的卫星组网技术.基于空间智能计算的卫星网络架构与组网体制验证(2020YFB1806001, 子课题负责人).
+* 中国博士后科学基金第69批面上资助(China Postdoctoral Science Foundation), 面向新一代卫星网络的传送控制算法研究(No. 2021M691786).
+
 # Authorized Patents
 
 *  A bandwidth allocation method, CN103686874B, `Zeqi Lai`, Yong Cui and Shihan Xiao.
-*  崔勇, `赖泽祺`, 戴柠薇. 面向个人云存储传输的数据确认方法: 中国, 2014107650123. (已公开)
-*  崔勇, `赖泽祺`. 一种终端、服务器文件同步的方法及装置: 中国, 2014107283069. (已公开)
-*  崔勇, `赖泽祺`, 缪葱葱. 一种文件同步方法及装置: 中国, 2014107223871. (已公开)
-*  崔勇, `赖泽祺`, 鲍亚运. 能耗优化的流媒体应用带宽资源分配方法: 中国, 2014105896788. (已授权)
-*  崔勇, 鲍亚运, `赖泽祺`. 快速能耗优化的流媒体应用带宽资源分配方法: 中国, 2014105896769. (已授权)
-*  崔勇, 鲍亚运, `赖泽祺`. 流媒体应用快速缓冲的带宽分配方法: 中国, 2014105896773. (已授权)
-*  崔勇, 江逸敏, `赖泽祺`. 面向Android系统后台服务自动唤醒的切断方法: 中国, 2017101424423. (已公开)
-*  崔勇, 孙霖晖, `赖泽祺`. 基于多子流协同的并行视频流媒体解码方案: 中国, 2017104185138. (已公开)
-*  崔勇, 孙霖晖, `赖泽祺`. 面向虚拟现实的协同渲染方案: 中国, 2017104191213. (已公开)
-*  崔勇, 孙霖晖, `赖泽祺`. 基于多连接的并行解码方案: 中国, 2017104196452. (已公开)
+*  `赖泽祺`，李贺武，李基豪，吴建平. 一种用于天地一体化网络的网络性能评估方法及系统: 中国，202010969989.2.
+*  崔勇, `赖泽祺`, 戴柠薇. 面向个人云存储传输的数据确认方法: 中国, 2014107650123. 
+*  崔勇, `赖泽祺`. 一种终端、服务器文件同步的方法及装置: 中国, 2014107283069. 
+*  崔勇, `赖泽祺`, 缪葱葱. 一种文件同步方法及装置: 中国, 2014107223871. 
+*  崔勇, `赖泽祺`, 鲍亚运. 能耗优化的流媒体应用带宽资源分配方法: 中国, 2014105896788. 
+*  崔勇, 鲍亚运, `赖泽祺`. 快速能耗优化的流媒体应用带宽资源分配方法: 中国, 2014105896769. 
+*  崔勇, 鲍亚运, `赖泽祺`. 流媒体应用快速缓冲的带宽分配方法: 中国, 2014105896773.
+*  崔勇, 江逸敏, `赖泽祺`. 面向Android系统后台服务自动唤醒的切断方法: 中国, 2017101424423. 
+*  崔勇, 孙霖晖, `赖泽祺`. 基于多子流协同的并行视频流媒体解码方案: 中国, 2017104185138. 
+*  崔勇, 孙霖晖, `赖泽祺`. 面向虚拟现实的协同渲染方案: 中国, 2017104191213. 
+*  崔勇, 孙霖晖, `赖泽祺`. 基于多连接的并行解码方案: 中国, 2017104196452. 
 
 
 # Misc
