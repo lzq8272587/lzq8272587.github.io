@@ -1,8 +1,7 @@
 
 ![Avatar](./avatar-small.png)
 
-Assistant Researcher@Institute for Network Sciences and Cyberspace, Tsinghua University.
-Fit building 1-217, Tsinghua University.
+
 **Email:** zeqilai@tsinghua.edu.cn.
 
 # News
@@ -115,7 +114,8 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 *  500px: [https://500px.com/uestclzq](https://500px.com/uestclzq).
 
 # In the Press
-*  [New ‘Furion’ software allows untethered high-quality VR.](https://www.purdue.edu/newsroom/releases/2017/Q4/new-furion-software-allows-untethered-high-quality-vr.html)
+*  
+*  [清华大学网络研究院在ACM SIGCOMM 2021成功举办天地一体化网络学术讲座.](https://www.insc.tsinghua.edu.cn/info/1132/1574.htm)
 *  [New software brings high-quality VR to smartphones.](https://www.hostingadvice.com/blog/purdue-develops-furion-to-enable-vr-on-mobile-devices/)
 *  [Purdue Researchers Develop Furion® — A New VR Framework Enabling High-Quality Virtual Reality on Mobile Devices.](https://www.theengineer.co.uk/software-high-quality-vr-smartphones/)
 
