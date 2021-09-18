@@ -1,6 +1,10 @@
 
 ![Avatar](./avatar-small.png)
 
+Assistant Researcher@Institute for Network Sciences and Cyberspace, Tsinghua University.
+Fit building 1-217, Tsinghua University.
+**Email:** zeqilai@tsinghua.edu.cn.
+
 # News
 
 I left **Tencent Media Lab** in November 2019. Now I am working at Institute for Network Sciences and Cyberspace, Tsinghua University.
