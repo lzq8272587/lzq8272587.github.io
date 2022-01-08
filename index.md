@@ -60,7 +60,7 @@ Mega-constellations for Real-Time Communications, to appear in IEEE INFOCOM 2022
 
 ## 2020
 
-1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020. ([Paper](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf),[Slides](https://icnp20.cs.ucr.edu/Slides/Main_Conference/s01-2.pdf))
+1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020. ([Paper](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf),[Slides](https://icnp20.cs.ucr.edu/Slides/Main_Conference/s01-2.pdf),[Codes](https://github.com/SpaceNetLab/StarPerf_Simulator))
 
 2. Siyu Yang, Hewu Li, `Zeqi Lai`, Jun Liu, A Synergic Architecture for Content Distribution in Integrated Satellite and Terrestrial Networks, 2020 IEEE/CIC International Conference on Communications in China (ICCC), Chongqing, China, 2020, pp. 96-101. (Corresponding author.)
 
@@ -134,7 +134,8 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 
 # Working Experience
 *  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
-*  2019.12-2021.12, Assistant Researcher, Institute for Network Sciences and Cyberspace, Tsinghua University.
+*  2019.12-2021.12, Assistant Researcher (Shuimu Tsinghua Scholar Program), Institute for Network Sciences and Cyberspace, Tsinghua University.
+*  2022.01-Now, Assistant Profrssor, Institute for Network Sciences and Cyberspace, Tsinghua University.
 
 
 # Projects
@@ -148,12 +149,12 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 ##  天地一体互联网体系结构
 
 * `赖泽祺`，李贺武，李基豪，吴建平. 一种用于天地一体化网络的网络性能评估方法及系统，KHP202010969989.2.
-* `赖泽祺`,李贺武,张琦,吴茜,吴建平. 内容分发方法及系统，KHP211112563.2 
-* `赖泽祺`,吴茜,李贺武,吕铭洋,吴建平. 卫星数据传输方法及系统，KHP211112565.4  
-* 李贺武,杨思雨,`赖泽祺`,刘君,吴茜. 基于动态位置的内容分发方法、系统、设备及存储介质, KHP201112111.0 
-* 李贺武,杨思雨,`赖泽祺`,刘君,吴茜. 基于卫星移动轨迹的内容推送方法、系统及设备，KHP201112113.2
-* 吴茜,赵正品,`赖泽祺`,李贺武,刘君. 低轨卫星网络中避开高风险区域的路由方法和装置，KHP211113353.0 
-* 李贺武,刘李鑫,刘君,`赖泽祺`,吴茜,万俊杰,李观文. 卫星网络路由方法、装置、设备、系统及可读存储介质，KHP211123053.8
+* `赖泽祺`,李贺武,张琦,吴茜,吴建平. 内容分发方法及系统，KHP211112563.2. 
+* `赖泽祺`,吴茜,李贺武,吕铭洋,吴建平. 卫星数据传输方法及系统，KHP211112565.4.
+* 李贺武,杨思雨,`赖泽祺`,刘君,吴茜. 基于动态位置的内容分发方法、系统、设备及存储介质, KHP201112111.0. 
+* 李贺武,杨思雨,`赖泽祺`,刘君,吴茜. 基于卫星移动轨迹的内容推送方法、系统及设备，KHP201112113.2.
+* 吴茜,赵正品,`赖泽祺`,李贺武,刘君. 低轨卫星网络中避开高风险区域的路由方法和装置，KHP211113353.0. 
+* 李贺武,刘李鑫,刘君,`赖泽祺`,吴茜,万俊杰,李观文. 卫星网络路由方法、装置、设备、系统及可读存储介质，KHP211123053.8.
 
 ## 无线网络与移动计算
 
