@@ -4,31 +4,76 @@
 
 **Email:** zeqilai@tsinghua.edu.cn
 
+**Address:** Fit building 1-217, Tsinghua University, Beijing, China
+
+Zeqi Lai is currently an assistant professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. Before joining Tsinghua University, he was a senior researcher at Tencent Media Lab from 2018 to 2019 and developed the network protocols and congestion control algorithms for [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. He received his Ph.D. in Computer Science from Tsinghua University in 2018 and B.E. in Computer Science and Engineering from the University of Electronic Science and Technology of China in 2013. He was a visiting scholar in the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017. His research interests include computer networking, wireless and mobile computing, video streaming, integrated space and terrestrial networks. His works are published at conferences or journals such as ACM MobiCom, IEEE INFOCOM, IEEE ICNP, IEEE ToN, and IEEE TMC.
+
+
 # News
+
+* `Students:` I am looking for PhD students with strong system and network building skills to join our exciting communication/system/networking/applictaion/security projects. Experience with system and network programming is a big plus.
 
 * Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html).
 
-* I left **Tencent Media Lab** in November 2019. Now I am working at Institute for Network Sciences and Cyberspace, Tsinghua University.
+[//]: <!--  * Our paper "SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications (`Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu)", has been accepted by IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).-->
+
+[//]: <!-- * Our paper "Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks (Yaoying Zhang, Qian Wu, `Zeqi Lai` and Hewu Li)", has been accepted by IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).-->
+
+
+[//]: <!-- * Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html). --> 
+
+
+[//]: <!--  * I left **Tencent Media Lab** in November 2019. Now I am working at Institute for Network Sciences and Cyberspace, Tsinghua University. -->
 
 # Research Topics
 
-Integrated Space and Terrstrial Networks, Mobile Computing, Multimedia Streaming.
+* `Integrated Space and Terrstrial Networks`, `Mobile Computing`, `Multimedia Streaming`.
 
 # Conference Papers
 
-1. `Zeqi Lai`, Hewu Li, Qi Zhang, Qian Wu, and Jianping Wu. Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds. In IEEE ICNP, 2021 (to appear).
+##  2022
 
-1. `Zeqi Lai`, Qian Wu, Hewu Li, Mingyang Lv, Jianping Wu. ORBITCAST: Exploiting Mega-Constellations for Low-Latency Earth Observation. In IEEE ICNP, 2021 (to appear).
+1. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, SPACERTC: Unleashing the Low-latency Potential of
+Mega-constellations for Real-Time Communications, to appear in IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).
 
-1. Yuanjie Li, Hewu Li, Lixin Liu, Wei Liu, Jiayi Liu, Jianping Wu, Qian Wu, Jun Liu, and `Zeqi Lai`. "Internet in Space" for Terrestrial Users via Cyber-Physical Convergence. In ACM HotNets, 2021 (to appear).
+2. Yaoying Zhang, Qian Wu, `Zeqi Lai` and Hewu Li"Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks, to appear in IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).
 
-1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020.
 
-1. `Zeqi Lai`, Yong Cui, Ziyi Wang, and Xiaoyu Hu. Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing. In SIGCOMM demo&poster session. ACM, 2018.
+##  2021
+1. `Zeqi Lai`, Hewu Li, Qi Zhang, Qian Wu, and Jianping Wu. Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds. In IEEE ICNP, 2021. ([Paper](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper55.pdf),[@Youtube](https://youtu.be/M8xb6B1afPA?t=00h42m03s),[@Bilibili](https://www.bilibili.com/video/BV1NT4y1d7u3/?t=00h42m03s))
 
-2. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. In MOBICOM. ACM, 2017, (Acceptance Rate 35/189=18%).
+2. `Zeqi Lai`, Qian Wu, Hewu Li, Mingyang Lv, Jianping Wu. ORBITCAST: Exploiting Mega-Constellations for Low-Latency Earth Observation. In IEEE ICNP, 2021. ([Paper](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper56.pdf),[@Youtube](https://youtu.be/M8xb6B1afPA?t=01h05m52s),[@Bilibili](https://www.bilibili.com/video/BV1NT4y1d7u3/?t=01h05m52s))
 
-3. Yong Cui, `Zeqi Lai`, Xin Wang, Ningwei Dai, and Congcong Miao. Quicksync: Improving synchronization efficiency for mobile cloud storage services. In MOBICOM. ACM, 2015, (Acceptance Rate 38/207=18%, first student author!).
+3. Yuanjie Li, Hewu Li, Lixin Liu, Wei Liu, Jiayi Liu, Jianping Wu, Qian Wu, Jun Liu, and `Zeqi Lai`. "Internet in Space" for Terrestrial Users via Cyber-Physical Convergence. In ACM HotNets, 2021.
+
+4. Zhaojie Song, Qian Wu, Hewu Li, Jun Liu and `Zeqi Lai`. Hysteresis Optimized Multipath TCP Data Scheduling Algorithm in Predictable Networks, 2021 International Wireless Communications and Mobile Computing (IWCMC). IEEE, 2021: 1381-1386.
+
+5. Yazheng Chen, Hewu Li, Jun Liu, Qian Wu, `Zeqi Lai`. GAMS: An IP Address Management Mechanism in Satellite Mega-constellation Networks. In 2021 International Wireless Communications and Mobile Computing (IWCMC) (pp. 229-234). IEEE.
+
+6. Zhengpin Zhao, Qian Wu, Hewu Li, `Zeqi Lai` and Jun Liu, LRAR: A Lightweight Risk-Avoidance Routing Algorithm for LEO Satellite Networks, In 2021 International Wireless Communications and Mobile Computing (IWCMC), 2021, pp. 223-228, doi: 10.1109/IWCMC51323.2021.9498778.
+
+7. Jihao Li, Hewu Li, Jun Liu, `Zeqi Lai`, Qian Wu and Xiaomo Wang, A Timeslot Division Strategy for Availability in Integrated Satellite and Terrestrial Network, In 2021 IEEE Wireless Communications and Networking Conference (WCNC), 2021, pp. 1-7, doi: 10.1109/WCNC49053.2021.9417256.
+
+8. Tianming Lan, Hewu Li, Qian Wu, `Zeqi Lai` and Jun Liu, Exploiting Path Diversity to Increase System Performance in Mega-constellations, 2021 IEEE Wireless Communications and Networking Conference (WCNC), 2021, pp. 1-7, doi: 10.1109/WCNC49053.2021.9417465.
+
+
+
+## 2020
+
+1. `Zeqi Lai`, Hewu Li, Jihao Li. StarPerf: Characterizing Network Performance for Emerging Mega-Constellations. In IEEE ICNP, 2020. ([Paper](https://icnp20.cs.ucr.edu/proceedings/main/StarPerf.pdf),[Slides](https://icnp20.cs.ucr.edu/Slides/Main_Conference/s01-2.pdf))
+
+2. Siyu Yang, Hewu Li, `Zeqi Lai`, Jun Liu, A Synergic Architecture for Content Distribution in Integrated Satellite and Terrestrial Networks, 2020 IEEE/CIC International Conference on Communications in China (ICCC), Chongqing, China, 2020, pp. 96-101. (Corresponding author.)
+
+3. Jiang Zhou, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, SR-TPP: Extending IPv6 Segment Routing to enable Trusted and Private Network Paths, 2020 IEEE Symposium on Computers and Communications (ISCC), Rennes, France, 2020.
+
+
+
+## 2018 and Earlier
+
+
+2. `Zeqi Lai`, Yong Cui, Ziyi Wang, and Xiaoyu Hu. Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing. In SIGCOMM demo&poster session. ACM, 2018.
+
+3. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. In MOBICOM. ACM, 2017, (Acceptance Rate 35/189=18%, `158 Google citations`).
 
 4. `Zeqi Lai`, Yong Cui, Mining Li, Zhenhua Li, Ningwei Dai, and Yuchi Chen. Tailcutter: Wisely cutting tail latency in cloud cdn under cost constraints. In INFOCOM. IEEE, 2016, (Acceptance Rate 300/1644=18%).
 
@@ -36,17 +81,14 @@ Integrated Space and Terrstrial Networks, Mobile Computing, Multimedia Streaming
 
 6. `Zeqi Lai`, Yong Cui, Yayun Bao, Jiangchuan Liu, Yingchao Zhao, and Xiao Ma. Joint media streaming optimization of energy and rebuffering time in cellular networks. In ICPP. IEEE, 2015, (Acceptance Rate 99/305=32%).
 
-7. Yong Cui, Shihan Xiao, Xin Wang, Minming Li, Hongyi Wang, and `Zeqi Lai`. Performance-aware energy optimization on mobile devices in cellular network. In INFOCOM. IEEE, 2014, (Acceptance Rate 320/1645=19%).
+7. Yong Cui, `Zeqi Lai`, Xin Wang, Ningwei Dai, and Congcong Miao. Quicksync: Improving synchronization efficiency for mobile cloud storage services. In MOBICOM. ACM, 2015, (Acceptance Rate 38/207=18%, first student author!).
 
-8. Ziyi Wang, Yong Cui, and `Zeqi Lai`. “A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges.” arXiv preprint arXiv:1807.08829 (2018).
+8. Yong Cui, Shihan Xiao, Xin Wang, Minming Li, Hongyi Wang, and `Zeqi Lai`. Performance-aware energy optimization on mobile devices in cellular network. In INFOCOM. IEEE, 2014, (Acceptance Rate 320/1645=19%).
 
-9. `Zeqi Lai`, et al. “Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing.” Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos. ACM, 2018.
-
-10. Siyu Yang, Hewu Li, `Zeqi Lai`, Jun Liu, A Synergic Architecture for Content Distribution in Integrated Satellite and Terrestrial Networks, 2020 IEEE/CIC International Conference on Communications in China (ICCC), Chongqing, China, 2020, pp. 96-101. (Corresponding author.)
-
-11. Jiang Zhou, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, SR-TPP: Extending IPv6 Segment Routing to enable Trusted and Private Network Paths, 2020 IEEE Symposium on Computers and Communications (ISCC), Rennes, France, 2020, pp. 1-6.
 
 # Journals & Magazines
+
+1. Ziyi Wang, Yong Cui, and `Zeqi Lai`. “A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges.” IEEE Network, 2019.
 
 1. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. IEEE Transactions on Mobile Computing, 2019. (CCF Rank A.)
 
@@ -54,14 +96,23 @@ Integrated Space and Terrstrial Networks, Mobile Computing, Multimedia Streaming
 
 3. Yong Cui, Ningwei Dai, `Zeqi Lai`, Minming Li, Zhenhua Li, Yuming Hu, Kui Ren, Yuchi Chen. TailCutter: Wisely Cutting Tail Latency in Cloud CDNs Under Cost Constraints. IEEE Transactions on Networking, 2019. (CCF Rank A, corresponding author.)
 
-4. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017, (first student author!).
+4. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017.
 
 5. Yong Cui, `Zeqi Lai`, and Ningwei Dai. A first look at mobile cloud storage services: architecture, experimentation,
-and challenges. IEEE Network, 30(4), 2016, (first student author!).
+and challenges. IEEE Network, 30(4), 2016.
 
 6. Yong Cui, Shihan Xiao, Xin Wang, `Zeqi Lai`, Zhenjie Yang, Minming Li, and Hongyi Wang. “Performance-aware energy optimization on mobile devices in cellular network.” IEEE Transactions on Mobile Computing 16, no. 4 (2017): 1073-1089.
 
 7. 崔勇, `赖泽祺`, 缪葱葱. 移动云存储服务关键技术研究. 中兴通讯技术, 2015, 21(2): 10-13.
+
+
+# IETF Experience
+
+1. Problems and Requirements of Evaluation Methodology for Integrated Space and Terrestrial Networks, IETF-112, `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/](https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/))
+
+2. ISS BoF (Internet Storage Sync) IETF-94 (Yokohama) ([https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf](https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf)), ([https://irtf.org/raim-2015-slides/ic/lai.pdf](https://irtf.org/raim-2015-slides/ic/lai.pdf))
+
+
 
 # Awards
 *  2018.6 北京市优秀毕业生
@@ -83,7 +134,7 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 
 # Working Experience
 *  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
-*  2019.12-Now, Assistant Researcher, Institute for Network Sciences and Cyberspace, Tsinghua University.
+*  2019.12-2021.12, Assistant Researcher, Institute for Network Sciences and Cyberspace, Tsinghua University.
 
 
 # Projects
@@ -91,10 +142,22 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 * 国家重点研发计划(National Key Research and Development Program), 面向天地一体化空间智能计算的卫星组网技术.基于空间智能计算的卫星网络架构与组网体制验证(2020YFB1806001, 子课题负责人).
 * 中国博士后科学基金第69批面上资助(China Postdoctoral Science Foundation), 面向新一代卫星网络的传送控制算法研究(No. 2021M691786).
 
-# Authorized Patents
 
-*  A bandwidth allocation method, CN103686874B, `Zeqi Lai`, Yong Cui and Shihan Xiao.
-*  `赖泽祺`，李贺武，李基豪，吴建平. 一种用于天地一体化网络的网络性能评估方法及系统: 中国，202010969989.2.
+# Patents
+
+##  天地一体互联网体系结构
+
+* `赖泽祺`，李贺武，李基豪，吴建平. 一种用于天地一体化网络的网络性能评估方法及系统，KHP202010969989.2.
+* `赖泽祺`,李贺武,张琦,吴茜,吴建平. 内容分发方法及系统，KHP211112563.2 
+* `赖泽祺`,吴茜,李贺武,吕铭洋,吴建平. 卫星数据传输方法及系统，KHP211112565.4  
+* 李贺武,杨思雨,`赖泽祺`,刘君,吴茜. 基于动态位置的内容分发方法、系统、设备及存储介质, KHP201112111.0 
+* 李贺武,杨思雨,`赖泽祺`,刘君,吴茜. 基于卫星移动轨迹的内容推送方法、系统及设备，KHP201112113.2
+* 吴茜,赵正品,`赖泽祺`,李贺武,刘君. 低轨卫星网络中避开高风险区域的路由方法和装置，KHP211113353.0 
+* 李贺武,刘李鑫,刘君,`赖泽祺`,吴茜,万俊杰,李观文. 卫星网络路由方法、装置、设备、系统及可读存储介质，KHP211123053.8
+
+## 无线网络与移动计算
+
+*  `赖泽祺`，崔勇，肖诗汉. 一种带宽分配方法: 中国，103686874B.
 *  崔勇, `赖泽祺`, 戴柠薇. 面向个人云存储传输的数据确认方法: 中国, 2014107650123. 
 *  崔勇, `赖泽祺`. 一种终端、服务器文件同步的方法及装置: 中国, 2014107283069. 
 *  崔勇, `赖泽祺`, 缪葱葱. 一种文件同步方法及装置: 中国, 2014107223871. 
@@ -110,7 +173,7 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 # Misc
 
 *  Tuchong：[http://tuchong.com/487459/](http://tuchong.com/487459/).
-*  Facebook：[https://www.facebook.com/zeqi.lai](https://www.facebook.com/zeqi.lai).
+<!--*  Facebook：[https://www.facebook.com/zeqi.lai](https://www.facebook.com/zeqi.lai).-->
 *  500px: [https://500px.com/uestclzq](https://500px.com/uestclzq).
 
 # In the Press
@@ -121,7 +184,7 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 *  [Purdue Researchers Develop Furion® — A New VR Framework Enabling High-Quality Virtual Reality on Mobile Devices.](https://www.theengineer.co.uk/software-high-quality-vr-smartphones/)
 
 # Organization
-*  Our lab：[https://spacenetlab.github.io/](https://spacenetlab.github.io/).
+*  Our lab site：[https://spacenetlab.github.io/](https://spacenetlab.github.io/).
 
 
 
