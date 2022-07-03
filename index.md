@@ -33,16 +33,16 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 ##  2022
 
-1. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, SPACERTC: Unleashing the Low-latency Potential of
-Mega-constellations for Real-Time Communications, in IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).
+1. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SPACERTC: Unleashing the Low-latency Potential of
+Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).
 
-2. Yaoying Zhang, Qian Wu, `Zeqi Lai` and Hewu Li"Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks, in IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).
+2. Yaoying Zhang, Qian Wu, `Zeqi Lai` and Hewu Li, "Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks", in IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).
 
-3. Lixin Liu, Hewu Li, Yuanjie Li, `Zeqi Lai`, Yangtao Deng, Yimei Chen, Wei Liu, Qian Wu, Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility, in IEEE IWQoS 2022.
+3. Lixin Liu, Hewu Li, Yuanjie Li, `Zeqi Lai`, Yangtao Deng, Yimei Chen, Wei Liu, Qian Wu, "Geographic Low-Earth-Orbit Networking without QoS Bottlenecks from Infrastructure Mobility", in IEEE IWQoS 2022.
 
-4. Zitong Lin, Hewu Li, Jun Liu, `Zeqi Lai`, Guojie Fan, Inter-Networking and Function Optimization for Mega-Constellationsin, in IFIP Networking conference 2022.
+4. Zitong Lin, Hewu Li, Jun Liu, `Zeqi Lai`, Guojie Fan, "Inter-Networking and Function Optimization for Mega-Constellationsin", in IFIP Networking conference 2022.
 
-5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, A Case for Stateless Mobile Core Network Functions in Space, in ACM SIGCOMM 2022.
+5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "A Case for Stateless Mobile Core Network Functions in Space", in ACM SIGCOMM 2022.
 
 
 
