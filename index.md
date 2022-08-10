@@ -33,7 +33,7 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 ##  2023
 
-1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear).
+1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear, acceptance Rate 50/272 = 18%).
 
 ##  2022
 
@@ -60,15 +60,15 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 
 3. Yuanjie Li, Hewu Li, Lixin Liu, Wei Liu, Jiayi Liu, Jianping Wu, Qian Wu, Jun Liu, and `Zeqi Lai`. "Internet in Space" for Terrestrial Users via Cyber-Physical Convergence. In ACM HotNets, 2021.
 
-4. Zhaojie Song, Qian Wu, Hewu Li, Jun Liu and `Zeqi Lai`. Hysteresis Optimized Multipath TCP Data Scheduling Algorithm in Predictable Networks, 2021 International Wireless Communications and Mobile Computing (IWCMC). IEEE, 2021: 1381-1386.
+4. Zhaojie Song, Qian Wu, Hewu Li, Jun Liu and `Zeqi Lai`. Hysteresis Optimized Multipath TCP Data Scheduling Algorithm in Predictable Networks, 2021 International Wireless Communications and Mobile Computing (IWCMC).
 
-5. Yazheng Chen, Hewu Li, Jun Liu, Qian Wu, `Zeqi Lai`. GAMS: An IP Address Management Mechanism in Satellite Mega-constellation Networks. In 2021 International Wireless Communications and Mobile Computing (IWCMC) (pp. 229-234). IEEE.
+5. Yazheng Chen, Hewu Li, Jun Liu, Qian Wu, `Zeqi Lai`. GAMS: An IP Address Management Mechanism in Satellite Mega-constellation Networks. In 2021 International Wireless Communications and Mobile Computing (IWCMC).
 
-6. Zhengpin Zhao, Qian Wu, Hewu Li, `Zeqi Lai` and Jun Liu, LRAR: A Lightweight Risk-Avoidance Routing Algorithm for LEO Satellite Networks, In 2021 International Wireless Communications and Mobile Computing (IWCMC), 2021, pp. 223-228, doi: 10.1109/IWCMC51323.2021.9498778.
+6. Zhengpin Zhao, Qian Wu, Hewu Li, `Zeqi Lai` and Jun Liu, LRAR: A Lightweight Risk-Avoidance Routing Algorithm for LEO Satellite Networks, In 2021 International Wireless Communications and Mobile Computing (IWCMC).
 
-7. Jihao Li, Hewu Li, Jun Liu, `Zeqi Lai`, Qian Wu and Xiaomo Wang, A Timeslot Division Strategy for Availability in Integrated Satellite and Terrestrial Network, In 2021 IEEE Wireless Communications and Networking Conference (WCNC), 2021, pp. 1-7, doi: 10.1109/WCNC49053.2021.9417256.
+7. Jihao Li, Hewu Li, Jun Liu, `Zeqi Lai`, Qian Wu and Xiaomo Wang, A Timeslot Division Strategy for Availability in Integrated Satellite and Terrestrial Network, In 2021 IEEE Wireless Communications and Networking Conference (WCNC).
 
-8. Tianming Lan, Hewu Li, Qian Wu, `Zeqi Lai` and Jun Liu, Exploiting Path Diversity to Increase System Performance in Mega-constellations, 2021 IEEE Wireless Communications and Networking Conference (WCNC), 2021, pp. 1-7, doi: 10.1109/WCNC49053.2021.9417465.
+8. Tianming Lan, Hewu Li, Qian Wu, `Zeqi Lai` and Jun Liu, Exploiting Path Diversity to Increase System Performance in Mega-constellations, 2021 IEEE Wireless Communications and Networking Conference (WCNC).
 
 
 
