@@ -6,7 +6,7 @@
 
 **Address:** Fit building 1-217, Tsinghua University, Beijing, China
 
-Zeqi Lai is currently an assistant professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. Before joining Tsinghua University, he was a senior researcher at Tencent Media Lab from 2018 to 2019 and developed the network protocols and congestion control algorithms for [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. He received his Ph.D. in Computer Science from Tsinghua University in 2018 and B.E. in Computer Science and Engineering from the University of Electronic Science and Technology of China in 2013. He was a visiting scholar in the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017. His research interests include computer networking, wireless and mobile computing, video streaming, integrated space and terrestrial networks. His works are published at conferences or journals such as ACM MobiCom, IEEE INFOCOM, IEEE ICNP, IEEE ToN, and IEEE TMC.
+Zeqi Lai is currently an assistant professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. Before joining Tsinghua University, he was a senior researcher at Tencent Media Lab from 2018 to 2019 and developed the network protocols and congestion control algorithms for [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. He received his Ph.D. in Computer Science from Tsinghua University in 2018 and B.E. in Computer Science and Engineering from the University of Electronic Science and Technology of China in 2013. He was a visiting scholar in the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017. His research interests include computer networking, wireless and mobile computing, video streaming, integrated space and terrestrial networks. His works are published at conferences or journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, IEEE ICNP, IEEE ToN, and IEEE TMC.
 
 
 # News
@@ -27,9 +27,13 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 # Research Topics
 
-* `Integrated Space and Terrstrial Networks`, `Mobile Computing`, `Multimedia Streaming`.
+* `Mobile Computing`, `Wireless Networks`, `Satellite Internet`, `Network Security`, `Multimedia Streaming`.
 
 # Conference Papers
+
+##  2023
+
+1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear).
 
 ##  2022
 
@@ -43,6 +47,8 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 4. Zitong Lin, Hewu Li, Jun Liu, `Zeqi Lai`, Guojie Fan, "Inter-Networking and Function Optimization for Mega-Constellationsin", in IFIP Networking conference 2022.
 
 5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "A Case for Stateless Mobile Core Network Functions in Space", in ACM SIGCOMM 2022.
+
+6. Weisen Liu, Qian Wu, `Zeqi Lai`, Jun Liu, Yuanjie Li, "Enabling Ubiquitous and Efficient Data Delivery by LEO Satellites and Ground Station Networks", in IEEE GLOBECOM 2022.
 
 
 
