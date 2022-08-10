@@ -33,7 +33,7 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 ##  2023
 
-1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear, acceptance Rate 50/272 = 18%).
+1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear, Acceptance Rate 50/272 = 18%).
 
 ##  2022
 
