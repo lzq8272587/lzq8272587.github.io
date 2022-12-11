@@ -130,7 +130,7 @@ and challenges. IEEE Network, 30(4), 2016.
 
 # IETF Experience
 
-1. Considerations for Benchmarking Network Performance in Satellite Internet Constellations, `Zeqi Lai', Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/draft-lai-bmwg-sic-benchmarking/00/](https://datatracker.ietf.org/doc/draft-lai-bmwg-sic-benchmarking/00/))
+1. Considerations for Benchmarking Network Performance in Satellite Internet Constellations, `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/draft-lai-bmwg-sic-benchmarking/00/](https://datatracker.ietf.org/doc/draft-lai-bmwg-sic-benchmarking/00/))
 
 2. Problems and Requirements of Evaluation Methodology for Integrated Space and Terrestrial Networks, IETF-112, `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/](https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/))
 
