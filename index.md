@@ -35,6 +35,14 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear, Acceptance Rate 50/272 = 18%).
 
+2. `Zeqi Lai`, Hewu Li, Yikun Wang, Qian Wu, Yangtao Deng, Jun Liu, Yuanjie Li, Jianping Wu, "Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks", in IEEE INFOCOM 2023 (to appear, Acceptance Rate 252/1312 = 19%).
+
+3. Mingyang Lv, Qian Wu, `Zeqi Lai`, Hewu Li, Yuanjie Li, Jun Liu, "FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations", in IEEE INFOCOM 2023 (to appear, Acceptance Rate 252/1312 = 19%).
+
+4. `Zeqi Lai`, Hewu Li, Qian Wu, Qiang Ni, Mingyang Lv, Jihao Li, Jianping Wu, Jun Liu, Yuanjie Li, "Integrating Space Edge Computing with Terrestrial Networks for Futuristic 6G Pervasive On-Demand Services", IEEE Vehicular Technology Magazine (to appear).
+
+5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, Han Qiu, "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation", in ACM MobiCom 2023 (to appear, da lao dai fei, Acceptance Rate 40/136 = 29.4%).
+
 ##  2022
 
 1. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SPACERTC: Unleashing the Low-latency Potential of
@@ -122,9 +130,11 @@ and challenges. IEEE Network, 30(4), 2016.
 
 # IETF Experience
 
-1. Problems and Requirements of Evaluation Methodology for Integrated Space and Terrestrial Networks, IETF-112, `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/](https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/))
+1. Considerations for Benchmarking Network Performance in Satellite Internet Constellations, `Zeqi Lai', Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/draft-lai-bmwg-sic-benchmarking/00/](https://datatracker.ietf.org/doc/draft-lai-bmwg-sic-benchmarking/00/))
 
-2. ISS BoF (Internet Storage Sync) IETF-94 (Yokohama) ([https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf](https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf)), ([https://irtf.org/raim-2015-slides/ic/lai.pdf](https://irtf.org/raim-2015-slides/ic/lai.pdf))
+2. Problems and Requirements of Evaluation Methodology for Integrated Space and Terrestrial Networks, IETF-112, `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu. ([https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/](https://datatracker.ietf.org/doc/slides-112-bmwg-problems-and-requirements-of-evaluation-methodology-for-integrated-space-and-terrestrial-networks/00/))
+
+3. ISS BoF (Internet Storage Sync) IETF-94 (Yokohama) ([https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf](https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf)), ([https://irtf.org/raim-2015-slides/ic/lai.pdf](https://irtf.org/raim-2015-slides/ic/lai.pdf))
 
 
 
