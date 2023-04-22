@@ -1,5 +1,5 @@
 
-![Avatar](./avatar-small.png)
+![Avatar](./avatar-22.jpg)
 
 
 **Email:** zeqilai@tsinghua.edu.cn
@@ -13,7 +13,7 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 * `Students:` I am looking for PhD students with strong system and network building skills to join our exciting communication/system/networking/applictaion/security projects. Experience with system and network programming is a big plus.
 
-* Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html).
+[//]: <!--  * Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html). -->
 
 [//]: <!--  * Our paper "SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications (`Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu)", has been accepted by IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).-->
 
@@ -27,21 +27,26 @@ Zeqi Lai is currently an assistant professor at the [Institute for Network Scien
 
 # Research Topics
 
-* `Mobile Computing`, `Wireless Networks`, `Satellite Internet`, `Network Security`, `Multimedia Streaming`.
+* `Mobile Computing`, `Wireless Networks`, `Satellite Internet`, `Network Security`, `Space Edge Computing and Intelligence`.
 
-# Conference Papers
+# Selected Publications
 
 ##  2023
 
-1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (to appear, Acceptance Rate 50/272 = 18%).
+1. `Zeqi Lai`, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, Weisen Liu, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", in USENIX NSDI 2023 (Acceptance Rate 50/272 = 18%).
 
-2. `Zeqi Lai`, Hewu Li, Yikun Wang, Qian Wu, Yangtao Deng, Jun Liu, Yuanjie Li, Jianping Wu, "Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks", in IEEE INFOCOM 2023 (to appear, Acceptance Rate 252/1312 = 19%).
+2. `Zeqi Lai`, Hewu Li, Yikun Wang, Qian Wu, Yangtao Deng, Jun Liu, Yuanjie Li, Jianping Wu, "Achieving Resilient and Performance-Guaranteed Routing in Space-Terrestrial Integrated Networks", in IEEE INFOCOM 2023 (Acceptance Rate 252/1312 = 19%).
 
-3. Mingyang Lv, Qian Wu, `Zeqi Lai`, Hewu Li, Yuanjie Li, Jun Liu, "FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations", in IEEE INFOCOM 2023 (to appear, Acceptance Rate 252/1312 = 19%).
+3. Mingyang Lv, Qian Wu, `Zeqi Lai`, Hewu Li, Yuanjie Li, Jun Liu, "FALCON: Towards Fast and Scalable Data Delivery for Emerging Earth Observation Constellations", in IEEE INFOCOM 2023 (Acceptance Rate 252/1312 = 19%).
 
-4. `Zeqi Lai`, Hewu Li, Qian Wu, Qiang Ni, Mingyang Lv, Jihao Li, Jianping Wu, Jun Liu, Yuanjie Li, "Integrating Space Edge Computing with Terrestrial Networks for Futuristic 6G Pervasive On-Demand Services", IEEE Vehicular Technology Magazine (to appear).
+4. `Zeqi Lai`, Hewu Li, Qian Wu, Qiang Ni, Mingyang Lv, Jihao Li, Jianping Wu, Jun Liu, Yuanjie Li, "Integrating Space Edge Computing with Terrestrial Networks for Futuristic 6G Pervasive On-Demand Services", IEEE Vehicular Technology Magazine.
 
 5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, Han Qiu, "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation", in ACM MobiCom 2023 (to appear, da lao dai fei, Acceptance Rate 40/136 = 29.4%).
+
+6. `Zeqi Lai`, Hewu Li, Qi Zhang, Qian Wu, Jianping Wu, "Cooperatively Constructing Pervasive and Low-Latency CDNs Upon Emerging LEO Satellites and Clouds", in IEEE/ACM Transactions on Networking 2023.
+
+7. Yaoying Zhang, Qian Wu, `Zeqi Lai`, Yangtao Deng, Hewu Li, Yuanjie Li, Jun Liu, "Energy Drain Attack in Satellite Internet Constellations", to appear in the IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023).
+
 
 ##  2022
 
@@ -88,12 +93,20 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 
 3. Jiang Zhou, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, SR-TPP: Extending IPv6 Segment Routing to enable Trusted and Private Network Paths, 2020 IEEE Symposium on Computers and Communications (ISCC), Rennes, France, 2020.
 
+## 2019
+
+
+1. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. IEEE Transactions on Mobile Computing, 2019. (CCF Rank A.)
+
+2. Ziyi Wang, Yong Cui, and `Zeqi Lai`. “A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges.” IEEE Network, 2019.
 
 
 ## 2018 and Earlier
 
 
-2. `Zeqi Lai`, Yong Cui, Ziyi Wang, and Xiaoyu Hu. Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing. In SIGCOMM demo&poster session. ACM, 2018.
+1. `Zeqi Lai`, Yong Cui, Ziyi Wang, and Xiaoyu Hu. Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing. In SIGCOMM demo&poster session. ACM, 2018.
+
+2. Yong Cui, Yimin Jiang, `Zeqi Lai`, Xiaomeng Chen, Y.Charlie Hu, Kun Tan, Minglong Dai, and Kai Zheng. Wireless network instabilities in the wild: Prevalence, app (non)resilience, and os remedy. IEEE Transactions on Networking, 2018. (CCF Rank A, corresponding author.)
 
 3. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. In MOBICOM. ACM, 2017, (Acceptance Rate 35/189=18%, `158 Google citations`).
 
@@ -108,24 +121,22 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 8. Yong Cui, Shihan Xiao, Xin Wang, Minming Li, Hongyi Wang, and `Zeqi Lai`. Performance-aware energy optimization on mobile devices in cellular network. In INFOCOM. IEEE, 2014, (Acceptance Rate 320/1645=19%).
 
 
-# Journals & Magazines
+[//]: <!-- * # Journals & Magazines -->
 
-1. Ziyi Wang, Yong Cui, and `Zeqi Lai`. “A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges.” IEEE Network, 2019.
 
-1. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. IEEE Transactions on Mobile Computing, 2019. (CCF Rank A.)
 
-2. Yong Cui, Yimin Jiang, `Zeqi Lai`, Xiaomeng Chen, Y.Charlie Hu, Kun Tan, Minglong Dai, and Kai Zheng. Wireless network instabilities in the wild: Prevalence, app (non)resilience, and os remedy. IEEE Transactions on Networking, 2018. (CCF Rank A, corresponding author.)
 
-3. Yong Cui, Ningwei Dai, `Zeqi Lai`, Minming Li, Zhenhua Li, Yuming Hu, Kui Ren, Yuchi Chen. TailCutter: Wisely Cutting Tail Latency in Cloud CDNs Under Cost Constraints. IEEE Transactions on Networking, 2019. (CCF Rank A, corresponding author.)
 
-4. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017.
+9. Yong Cui, Ningwei Dai, `Zeqi Lai`, Minming Li, Zhenhua Li, Yuming Hu, Kui Ren, Yuchi Chen. TailCutter: Wisely Cutting Tail Latency in Cloud CDNs Under Cost Constraints. IEEE Transactions on Networking, 2019. (CCF Rank A, corresponding author.)
 
-5. Yong Cui, `Zeqi Lai`, and Ningwei Dai. A first look at mobile cloud storage services: architecture, experimentation,
+10. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017.
+
+11. Yong Cui, `Zeqi Lai`, and Ningwei Dai. A first look at mobile cloud storage services: architecture, experimentation,
 and challenges. IEEE Network, 30(4), 2016.
 
-6. Yong Cui, Shihan Xiao, Xin Wang, `Zeqi Lai`, Zhenjie Yang, Minming Li, and Hongyi Wang. “Performance-aware energy optimization on mobile devices in cellular network.” IEEE Transactions on Mobile Computing 16, no. 4 (2017): 1073-1089.
+12. Yong Cui, Shihan Xiao, Xin Wang, `Zeqi Lai`, Zhenjie Yang, Minming Li, and Hongyi Wang. “Performance-aware energy optimization on mobile devices in cellular network.” IEEE Transactions on Mobile Computing 16, no. 4 (2017): 1073-1089.
 
-7. 崔勇, `赖泽祺`, 缪葱葱. 移动云存储服务关键技术研究. 中兴通讯技术, 2015, 21(2): 10-13.
+13. 崔勇, `赖泽祺`, 缪葱葱. 移动云存储服务关键技术研究. 中兴通讯技术, 2015, 21(2): 10-13.
 
 
 # IETF Experience
