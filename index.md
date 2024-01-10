@@ -6,7 +6,7 @@
 
 * `Address:` Fit building 1-217, Tsinghua University, Beijing, China
 
-I am currently an assistant professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. Before joining Tsinghua University, he was a senior researcher at Tencent Media Lab from 2018 to 2019 and developed the network protocols and congestion control algorithms for [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. He received his Ph.D. in Computer Science from Tsinghua University in 2018 and B.E. in Computer Science and Engineering from the University of Electronic Science and Technology of China in 2013. He was a visiting scholar in the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017. His research interests include computer networking, wireless and mobile computing, video streaming, integrated space and terrestrial networks. His works are published at conferences or journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, IEEE ICNP, IEEE ToN, and IEEE TMC.
+I am currently an assistant professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. Before joining Tsinghua University, he was a senior researcher at Tencent Media Lab from 2018 to 2019 and developed the network protocols and congestion control algorithms for [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. I received my Ph.D. in Computer Science from Tsinghua University in 2018 and B.E. in Computer Science and Engineering from the University of Electronic Science and Technology of China in 2013. I was a visiting scholar in the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017. My research interests include computer networking, wireless and mobile computing, video streaming, integrated space and terrestrial networks. My works are published at conferences or journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, IEEE ICNP, IEEE ToN, and IEEE TMC.
 
 
 # News
@@ -30,6 +30,18 @@ I am currently an assistant professor at the [Institute for Network Sciences and
 * `Mobile Computing`, `Wireless Networks`, `Satellite Internet`, `Network Security`, `Space Edge Computing and Intelligence`.
 
 # Selected Publications
+
+
+##  2024
+
+1. `Zeqi Lai`, Yibo Wang, Hewu Li, Qian Wu, Qi Zhang, Yunan Hou, Jun Liu, Yuanjie Li, "Your Mega-Constellations Can be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks", in IEEE INFOCOM 2024 (to appear).
+2. Weisen Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", in IEEE INFOCOM 2024 (to appear).
+3. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Weisen Liu, Xiaomo Wang, Yuanjie Li, Jun Liu, Qi Zhang, "SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services", in IEEE INFOCOM 2024 (to appear).
+4. `Zeqi Lai`, Yangtao Deng, Hewu Li, Qian Wu, Qi Zhang, "Space Digital Twin for Secure Satellite Internet: Vulnerabilities, Methodologies and Future Directions", in IEEE Network Magazine (to appear).
+5.  Wei Liu, Yuanjie Li, Hewu Li, Yimei Chen, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations", in IEEE S&P 2024 (to appear).
+6. Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, Yimei Chen, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Stable Hierarchical Routing for Operational LEO Networks", in ACM MobiCom 2024 (to appear).
+7. Lixin Liu, Yuanjie Li, Hewu Li, Jiabo Yang, Wei Liu, Jingyi Lan, Yufeng Wang, Jiarui Li, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks",  in USENIX NSDI 2024 (to appear).
+
 
 ##  2023
 
@@ -150,6 +162,7 @@ and challenges. IEEE Network, 30(4), 2016.
 
 
 # Awards
+*  中国通信学会2023-2025年度“青年托举计划”
 *  2018.6 北京市优秀毕业生
 *  2018.6 清华大学优秀毕业生
 *  2018.6 清华大学计算机系优秀毕业生
