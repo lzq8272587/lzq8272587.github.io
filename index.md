@@ -133,13 +133,6 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 
 8. Yong Cui, Shihan Xiao, Xin Wang, Minming Li, Hongyi Wang, and `Zeqi Lai`. Performance-aware energy optimization on mobile devices in cellular network. In INFOCOM. IEEE, 2014, (Acceptance Rate 320/1645=19%).
 
-
-[//]: <!-- * # Journals & Magazines -->
-
-
-
-
-
 9. Yong Cui, Ningwei Dai, `Zeqi Lai`, Minming Li, Zhenhua Li, Yuming Hu, Kui Ren, Yuchi Chen. TailCutter: Wisely Cutting Tail Latency in Cloud CDNs Under Cost Constraints. IEEE Transactions on Networking, 2019. (CCF Rank A, corresponding author.)
 
 10. Yong Cui, `Zeqi Lai`, Xin Wang, and Ningwei Dai. Quicksync: Improving synchronization efficiency for mobile cloud storage services. IEEE Transactions on Mobile Computing, 2017.
@@ -195,7 +188,7 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 
 # Patents
 
-##  天地一体互联网体系结构
+##  天地一体互联网体系结构（Satellite Internet）
 
 * `赖泽祺`，李贺武，李基豪，吴建平. 一种用于天地一体化网络的网络性能评估方法及系统，KHP202010969989.2.
 * `赖泽祺`,李贺武,张琦,吴茜,吴建平. 内容分发方法及系统，KHP211112563.2. 
@@ -205,7 +198,7 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 * 吴茜,赵正品,`赖泽祺`,李贺武,刘君. 低轨卫星网络中避开高风险区域的路由方法和装置，KHP211113353.0. 
 * 李贺武,刘李鑫,刘君,`赖泽祺`,吴茜,万俊杰,李观文. 卫星网络路由方法、装置、设备、系统及可读存储介质，KHP211123053.8.
 
-## 无线网络与移动计算
+## 无线网络与移动计算（Wireless and Mobile Computing）
 
 *  `赖泽祺`，崔勇，肖诗汉. 一种带宽分配方法: 中国，103686874B.
 *  崔勇, `赖泽祺`, 戴柠薇. 面向个人云存储传输的数据确认方法: 中国, 2014107650123. 
