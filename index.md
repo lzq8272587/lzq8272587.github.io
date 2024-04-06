@@ -12,7 +12,7 @@ After graduating from Tsinghua University, my first job was as a senior research
 
 Working at Tencent and building a useful and impactful system is a great memory for me. As Peregrine gradually matured and improved, I began to look for new and more challenging research problems. At the end of 2019, I returned to Tsinghua and worked with Prof. Hewu Li and Qian Wu. In addition to previous research interests including computer networks, wireless/mobile computing, and video streaming, I started my research on integrated space and terrestrial networks (ISTN). More specifically, I focus on networking technologies such as topology design, routing, traffic engineering, end-to-end transmission control, emerging applications (e.g. pushing CDNs, edge computing, and ML/AI to satellites!), network security, and experiment methodologies for satellite Internet constellations. Our works have been published at conferences/journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, ACM WWW, IEEE ICNP, IEEE ToN, and IEEE TMC.
 
-* `Students:` I am looking for PhD/master students to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
+* `Students:` I am looking for PhD/master students (will enroll in fall 2025) to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
 
 [//]: <!--  * Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html). -->
 
