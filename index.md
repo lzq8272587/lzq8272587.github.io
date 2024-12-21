@@ -35,14 +35,14 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 ##  2024
 
-1. `Zeqi Lai`, Yibo Wang, Hewu Li, Qian Wu, Qi Zhang, Yunan Hou, Jun Liu, Yuanjie Li, "Your Mega-Constellations Can be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks", in IEEE INFOCOM 2024 (to appear).
-2. Weisen Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", in IEEE INFOCOM 2024 (to appear).
-3. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Weisen Liu, Xiaomo Wang, Yuanjie Li, Jun Liu, Qi Zhang, "SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services", in IEEE INFOCOM 2024 (to appear).
-4. `Zeqi Lai`, Yangtao Deng, Hewu Li, Qian Wu, Qi Zhang, "Space Digital Twin for Secure Satellite Internet: Vulnerabilities, Methodologies and Future Directions", in IEEE Network Magazine (to appear).
-5. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Yijie Liu, Qi Zhang, Jun Liu, Yuanjie Li, "SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications", in ACM WWW 2024 (to appear).
-6.  Wei Liu, Yuanjie Li, Hewu Li, Yimei Chen, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations", in IEEE S&P 2024 (to appear).
-7. Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, Yimei Chen, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Stable Hierarchical Routing for Operational LEO Networks", in ACM MobiCom 2024 (to appear).
-8. Lixin Liu, Yuanjie Li, Hewu Li, Jiabo Yang, Wei Liu, Jingyi Lan, Yufeng Wang, Jiarui Li, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks",  in USENIX NSDI 2024 (to appear).
+1. `Zeqi Lai`, Yibo Wang, Hewu Li, Qian Wu, Qi Zhang, Yunan Hou, Jun Liu, Yuanjie Li, "Your Mega-Constellations Can be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks", in IEEE INFOCOM 2024.
+2. Weisen Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", in IEEE INFOCOM 2024.
+3. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Weisen Liu, Xiaomo Wang, Yuanjie Li, Jun Liu, Qi Zhang, "SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services", in IEEE INFOCOM 2024.
+4. `Zeqi Lai`, Yangtao Deng, Hewu Li, Qian Wu, Qi Zhang, "Space Digital Twin for Secure Satellite Internet: Vulnerabilities, Methodologies and Future Directions", in IEEE Network Magazine.
+5. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Yijie Liu, Qi Zhang, Jun Liu, Yuanjie Li, "SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications", in ACM WWW 2024.
+6.  Wei Liu, Yuanjie Li, Hewu Li, Yimei Chen, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations", in IEEE S&P 2024.
+7. Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, Yimei Chen, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Stable Hierarchical Routing for Operational LEO Networks", in ACM MobiCom 2024.
+8. Lixin Liu, Yuanjie Li, Hewu Li, Jiabo Yang, Wei Liu, Jingyi Lan, Yufeng Wang, Jiarui Li, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks",  in USENIX NSDI 2024 (Outstanding Paper Award).
 
 
 ##  2023
