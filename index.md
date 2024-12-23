@@ -10,21 +10,10 @@ I am currently an assistant professor at the [Institute for Network Sciences and
 
 After graduating from Tsinghua University, my first job was as a senior researcher at Tencent Media Lab from July 2018 to Nov 2019. Together with my excellent colleagues, we designed and implemented a flexible and low-latency network engine called Peregrine Falcon (the bird that can achieve the greatest airspeed in the world!), which was later used by [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. I led the protocol design and congestion control algorithms in Peregrine. The Peregrine engine has served hundreds of millions of real-time communication (RTC) users.
 
-Working at Tencent and building a useful and impactful system is a great memory for me. As Peregrine gradually matured and improved, I began to look for new and more challenging research problems. At the end of 2019, I returned to Tsinghua and worked with Prof. Hewu Li and Qian Wu. In addition to previous research interests including computer networks, wireless/mobile computing, and video streaming, I started my research on integrated space and terrestrial networks (ISTN). More specifically, I focus on networking technologies such as topology design, routing, traffic engineering, end-to-end transmission control, emerging applications (e.g. pushing CDNs, edge computing, and ML/AI to satellites!), network security, and experiment methodologies for satellite Internet constellations. Our works have been published at conferences/journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, ACM WWW, IEEE ICNP, IEEE ToN, and IEEE TMC.
+Working at Tencent and building a useful and impactful system is a great memory for me. As Peregrine gradually matured and improved, I began to look for new and more challenging research problems. At the end of 2019, I returned to Tsinghua and worked with Prof. Hewu Li and Qian Wu. In addition to previous research interests including computer networks, wireless/mobile computing, and video streaming, I started my research on integrated space and terrestrial networks (ISTN). More specifically, I focus on networking technologies such as topology design, routing, traffic engineering, end-to-end transmission control, emerging applications (e.g. pushing CDNs, edge computing, and ML/AI to satellites!), network security, and experiment methodologies for satellite Internet constellations. Our works have been published at conferences/journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, ACM WWW, NDSS, IEEE ICNP, IEEE ToN, and IEEE TMC.
 
-* `Students:` I am looking for PhD/master students (will enroll in fall 2025) to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
+* `Students:` I am looking for PhD/master students (will enroll in fall 2026) to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
 
-[//]: <!--  * Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html). -->
-
-[//]: <!--  * Our paper "SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications (`Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu)", has been accepted by IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).-->
-
-[//]: <!-- * Our paper "Enabling Low-latency-capable Satellite-Ground Topology for Emerging LEO Satellite Networks (Yaoying Zhang, Qian Wu, `Zeqi Lai` and Hewu Li)", has been accepted by IEEE INFOCOM 2022, (Acceptance Rate 225/1129 = 20%).-->
-
-
-[//]: <!-- * Tutorial on Integrated Satellite and Terrestrial Networks (ISTN) at ACM SIGCOMM 2021 [https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html](https://conferences.sigcomm.org/sigcomm/2021/ISTN-tutorial.html). --> 
-
-
-[//]: <!--  * I left **Tencent Media Lab** in November 2019. Now I am working at Institute for Network Sciences and Cyberspace, Tsinghua University. -->
 
 # Research Topics
 
@@ -33,16 +22,38 @@ Working at Tencent and building a useful and impactful system is a great memory 
 # Selected Publications
 
 
+##  2025
+
+1. Chenwei Gu, Qian Wu, `Zeqi Lai`, Hewu Li, Yuxuan Weng, Weisen Liu, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks", in IEEE International Conference on Computer Communications (INFOCOM) 2025 (to appear).
+
+2. Yangtao Deng, Qian Wu, `Zeqi Lai` Chenwei Gu, Hewu Li, Yuanjie Li, Jun Liu, "Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures", in Network and Distributed System Security (NDSS) Symposium 2025 (to appear).
+
+
 ##  2024
 
 1. `Zeqi Lai`, Yibo Wang, Hewu Li, Qian Wu, Qi Zhang, Yunan Hou, Jun Liu, Yuanjie Li, "Your Mega-Constellations Can be Slim: A Cost-Effective Approach for Constructing Survivable and Performant LEO Satellite Networks", in IEEE INFOCOM 2024.
+
 2. Weisen Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", in IEEE INFOCOM 2024.
+
 3. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Weisen Liu, Xiaomo Wang, Yuanjie Li, Jun Liu, Qi Zhang, "SKYCASTLE: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services", in IEEE INFOCOM 2024.
-4. `Zeqi Lai`, Yangtao Deng, Hewu Li, Qian Wu, Qi Zhang, "Space Digital Twin for Secure Satellite Internet: Vulnerabilities, Methodologies and Future Directions", in IEEE Network Magazine.
+
+4. `Zeqi Lai`, Yangtao Deng, Hewu Li, Qian Wu, Qi Zhang, "Space Digital Twin for Secure Satellite Internet: Vulnerabilities, Methodologies and Future Directions", in IEEE Network Magazine 2024.
+
 5. Jihao Li, Hewu Li, `Zeqi Lai`, Qian Wu, Yijie Liu, Qi Zhang, Jun Liu, Yuanjie Li, "SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications", in ACM WWW 2024.
+
 6.  Wei Liu, Yuanjie Li, Hewu Li, Yimei Chen, Yufeng Wang, Jingyi Lan, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "The Dark Side of Scale: Insecurity of Direct-to-Cell Satellite Mega-Constellations", in IEEE S&P 2024.
+
 7. Yuanjie Li, Lixin Liu, Hewu Li, Wei Liu, Yimei Chen, Wei Zhao, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Stable Hierarchical Routing for Operational LEO Networks", in ACM MobiCom 2024.
+
 8. Lixin Liu, Yuanjie Li, Hewu Li, Jiabo Yang, Wei Liu, Jingyi Lan, Yufeng Wang, Jiarui Li, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks",  in USENIX NSDI 2024 (Outstanding Paper Award).
+
+9. `Zeqi Lai`, Zonglun Li, Qian Wu, Hewu Li, Weisen Liu, Yijie Liu, Xin Xie, Yuanjie Li, Jun Liu, "Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control", in Proceedings of the 23rd ACM Workshop on Hot Topics in Networks (HotNets) 2024.
+
+10. Yimei Chen, Lixin Liu, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, `Zeqi Lai`, "Unraveling Physical Space Limits for LEO Network Scalability", in Proceedings of the 23rd ACM Workshop on Hot Topics in Networks (HotNets) 2024.
+
+11. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Yibo Wang, Yuanjie Li, Jun Liu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications", in IEEE Transactions on Mobile Computing (TMC), 2024.
+
+12. Chenwei Gu, Qian Wu, `Zeqi Lai`, Hewu Li, Jihao Li, Weisen Liu, Qi Zhang, Jun Liu, Yuanjie Li, "STARVERI: Efficient and Accurate Verification for Risk-Avoidance Routing in LEO Satellite Networks", in IEEE International Conference on Network Protocols (ICNP) 2024.
 
 
 ##  2023
@@ -55,7 +66,7 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 4. `Zeqi Lai`, Hewu Li, Qian Wu, Qiang Ni, Mingyang Lv, Jihao Li, Jianping Wu, Jun Liu, Yuanjie Li, "Integrating Space Edge Computing with Terrestrial Networks for Futuristic 6G Pervasive On-Demand Services", IEEE Vehicular Technology Magazine.
 
-5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, Han Qiu, "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation", in ACM MobiCom 2023 (to appear, da lao dai fei, Acceptance Rate 40/136 = 29.4%).
+5. Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, Han Qiu, "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation", in ACM MobiCom 2023 (Acceptance Rate 40/136 = 29.4%).
 
 6. `Zeqi Lai`, Hewu Li, Qi Zhang, Qian Wu, Jianping Wu, "Cooperatively Constructing Pervasive and Low-Latency CDNs Upon Emerging LEO Satellites and Clouds", in IEEE/ACM Transactions on Networking 2023.
 
@@ -79,8 +90,8 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 
 
 
-
 ##  2021
+
 1. `Zeqi Lai`, Hewu Li, Qi Zhang, Qian Wu, and Jianping Wu. Cooperatively Constructing Cost-Effective Content Distribution Networks upon Emerging Low Earth Orbit Satellites and Clouds. In IEEE ICNP, 2021. ([Paper](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper55.pdf),[@Youtube](https://youtu.be/M8xb6B1afPA?t=00h42m03s),[@Bilibili](https://www.bilibili.com/video/BV1NT4y1d7u3/?t=00h42m03s))
 
 2. `Zeqi Lai`, Qian Wu, Hewu Li, Mingyang Lv, Jianping Wu. ORBITCAST: Exploiting Mega-Constellations for Low-Latency Earth Observation. In IEEE ICNP, 2021. ([Paper](https://icnp21.cs.ucr.edu/papers/icnp21camera-paper56.pdf),[@Youtube](https://youtu.be/M8xb6B1afPA?t=01h05m52s),[@Bilibili](https://www.bilibili.com/video/BV1NT4y1d7u3/?t=01h05m52s))
@@ -107,8 +118,8 @@ Mega-constellations for Real-Time Communications", in IEEE INFOCOM 2022, (Accept
 
 3. Jiang Zhou, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, SR-TPP: Extending IPv6 Segment Routing to enable Trusted and Private Network Paths, 2020 IEEE Symposium on Computers and Communications (ISCC), Rennes, France, 2020.
 
-## 2019
 
+## 2019
 
 1. `Zeqi Lai`, Y.Charlie Hu, Yong Cui, Linhui Sun, and Ningwei Dai. Furion: Engineering high-quality immersive virtual reality on today’s mobile devices. IEEE Transactions on Mobile Computing, 2019. (CCF Rank A.)
 
@@ -155,9 +166,21 @@ and challenges. IEEE Network, 30(4), 2016.
 3. ISS BoF (Internet Storage Sync) IETF-94 (Yokohama) ([https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf](https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf)), ([https://irtf.org/raim-2015-slides/ic/lai.pdf](https://irtf.org/raim-2015-slides/ic/lai.pdf))
 
 
+# Academic Activites
+*  TPC member, USENIX NSDI 2025
+*  TPC member, IEEE IWQoS 2024
+*  TPC member, ACM MobiCom-LEO-NET 2024
+*  TPC member, ACM MobiCom-SATCOM 2023
+*  TPC member, VARSE 2023
+
 
 # Awards
-*  中国通信学会2023-2025年度“青年托举计划”
+
+*  Selected for the Young Talent Support Program by the China Institute of Communications (2023–2025). (中国通信学会2023-2025年度“青年托举计划”).
+*  Outstanding Paper Award at USENIX NSDI 2024.
+*  First Prize, Science and Technology Award, China Institute of Communications, "Key Technologies and Applications for End-to-End Latency-Sensitive Transmission in Internet Streaming Media", 2024. (互联网流媒体端到端时延敏感传送关键技术及应用，中国通信学会科学技术一等奖).
+*  Excellent Reviewer Award 2023, the International Journal IEEE Transactions on Network Science and Engineering (IEEE TNSE).
+
 *  2018.6 北京市优秀毕业生
 *  2018.6 清华大学优秀毕业生
 *  2018.6 清华大学计算机系优秀毕业生
@@ -168,7 +191,7 @@ and challenges. IEEE Network, 30(4), 2016.
 *  2010-2012 National Scholarship, UESTC
 
 # Skills
-Android, Java, C/C++, Matlab, Unity 3D, Origin.
+Android, Java, C/C++, Matlab, Unity 3D.
 
 # Education
 *  2013.9–2018.7, PhD，Tsinghua University，Computer Science and Technology，Advisor: Prof. Yong Cui.
@@ -176,10 +199,9 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 *  2009.9–2013.7, Bachelor，University of Electrical and Science Technology of China，Computer Science and Engineering，Information Security.
 
 # Working Experience
-*  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
-*  2019.12-2021.12, Assistant Researcher (Shuimu Tsinghua Scholar Program), Institute for Network Sciences and Cyberspace, Tsinghua University.
 *  2022.01-Now, Assistant Profrssor, Institute for Network Sciences and Cyberspace, Tsinghua University.
-
+*  2019.12-2021.12, Assistant Researcher (Shuimu Tsinghua Scholar Program), Institute for Network Sciences and Cyberspace, Tsinghua University.
+*  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
 
 # Projects
 
@@ -229,6 +251,3 @@ Android, Java, C/C++, Matlab, Unity 3D, Origin.
 
 # Organization
 *  Our lab site：[https://spacenetlab.github.io/](https://spacenetlab.github.io/).
-
-
-
