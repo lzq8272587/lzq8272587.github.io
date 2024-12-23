@@ -19,8 +19,9 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 * `Mobile Computing`, `Wireless Networks`, `Satellite Internet`, `Network Security`, `Space Edge Computing and Intelligence`.
 
-# Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=rH0hRIcAAAAJ&hl=en))
+# Selected Publications 
 
+([Google Scholar](https://scholar.google.com/citations?user=rH0hRIcAAAAJ&hl=en))
 
 ##  2025
 
