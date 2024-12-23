@@ -51,7 +51,7 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 10. Yimei Chen, Lixin Liu, Yuanjie Li, Hewu Li, Qian Wu, Jun Liu, `Zeqi Lai`, "Unraveling Physical Space Limits for LEO Network Scalability", in Proceedings of the 23rd ACM Workshop on Hot Topics in Networks (HotNets) 2024.
 
-11. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Yibo Wang, Yuanjie Li, Jun Liu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications", in IEEE Transactions on Mobile Computing (TMC), 2024.
+11. `Zeqi Lai`, Weisen Liu, Qian Wu, Hewu Li, Jingxi Xu, Yibo Wang, Yuanjie Li, Jun Liu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications", in IEEE Transactions on Mobile Computing (TMC) 2024.
 
 12. Chenwei Gu, Qian Wu, `Zeqi Lai`, Hewu Li, Jihao Li, Weisen Liu, Qi Zhang, Jun Liu, Yuanjie Li, "STARVERI: Efficient and Accurate Verification for Risk-Avoidance Routing in LEO Satellite Networks", in IEEE International Conference on Network Protocols (ICNP) 2024.
 
@@ -167,11 +167,11 @@ and challenges. IEEE Network, 30(4), 2016.
 
 
 # Academic Activites
-*  TPC member, USENIX NSDI 2025
-*  TPC member, IEEE IWQoS 2024
-*  TPC member, ACM MobiCom-LEO-NET 2024
-*  TPC member, ACM MobiCom-SATCOM 2023
-*  TPC member, VARSE 2023
+*  TPC member, USENIX NSDI 2025.
+*  TPC member, IEEE IWQoS 2024.
+*  TPC member, ACM MobiCom-LEO-NET 2024.
+*  TPC member, ACM MobiCom-SATCOM 2023.
+*  TPC member, VARSE 2023.
 
 
 # Awards
@@ -181,14 +181,14 @@ and challenges. IEEE Network, 30(4), 2016.
 *  First Prize, Science and Technology Award, China Institute of Communications, "Key Technologies and Applications for End-to-End Latency-Sensitive Transmission in Internet Streaming Media", 2024. (互联网流媒体端到端时延敏感传送关键技术及应用，中国通信学会科学技术一等奖).
 *  Excellent Reviewer Award 2023, the International Journal IEEE Transactions on Network Science and Engineering (IEEE TNSE).
 
-*  2018.6 北京市优秀毕业生
-*  2018.6 清华大学优秀毕业生
-*  2018.6 清华大学计算机系优秀毕业生
-*  2017.10 National Scholarship, Tsinghua University
-*  2017.1 TP-Link Scholarship
-*  2016.9 Microsoft Research Asia Fellowship 2016 Nomination Award Winner
-*  2015.9 National Scholarship, Tsinghua University
-*  2010-2012 National Scholarship, UESTC
+*  2018.6 北京市优秀毕业生.
+*  2018.6 清华大学优秀毕业生.
+*  2018.6 清华大学计算机系优秀毕业生.
+*  2017.10 National Scholarship, Tsinghua University.
+*  2017.1 TP-Link Scholarship.
+*  2016.9 Microsoft Research Asia Fellowship 2016 Nomination Award Winner.
+*  2015.9 National Scholarship, Tsinghua University.
+*  2010-2012 National Scholarship, UESTC.
 
 # Skills
 Android, Java, C/C++, Matlab, Unity 3D.
