@@ -21,7 +21,7 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 # Selected Publications 
 
-([Google Scholar](https://scholar.google.com/citations?user=rH0hRIcAAAAJ&hl=en))
+* ([Google Scholar](https://scholar.google.com/citations?user=rH0hRIcAAAAJ&hl=en))
 
 ##  2025
 
