@@ -6,7 +6,7 @@
 
 * `Address:` Fit building 1-217, Tsinghua University, Beijing, China
 
-I am currently an assistant professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. I received my Ph.D. in Computer Science from Tsinghua University (Supervisor: Prof. Yong Cui) in 2018 and B.E. in Computer Science from the University of Electronic Science and Technology of China (UESTC) in 2013. I was a visiting scholar at the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017, working with Prof. Y.Charlie Hu.
+I am currently an associate professor at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/), Tsinghua University. I received my Ph.D. in Computer Science from Tsinghua University (Supervisor: Prof. Yong Cui) in 2018 and B.E. in Computer Science from the University of Electronic Science and Technology of China (UESTC) in 2013. I was a visiting scholar at the School of Electrical and Computer Engineering, Purdue University from 2016 to 2017, working with Prof. Y.Charlie Hu.
 
 After graduating from Tsinghua University, my first job was as a senior researcher at Tencent Media Lab from July 2018 to Nov 2019. Together with my excellent colleagues, we designed and implemented a flexible and low-latency network engine called Peregrine Falcon (the bird that can achieve the greatest airspeed in the world!), which was later used by [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. I led the protocol design and congestion control algorithms in Peregrine. The Peregrine engine has served hundreds of millions of real-time communication (RTC) users.
 
@@ -17,7 +17,7 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 # Research Topics
 
-* `Mobile Computing`, `Wireless Networks`, `Satellite Internet`, `Network Security`, `Space Edge Computing and Intelligence`.
+* `Satellite Internet`, `Space Edge Computing and Intelligence`, `Mobile Computing`, `Wireless Networks`, `Network Security`.
 
 # Selected Publications 
 
@@ -169,7 +169,7 @@ and challenges. IEEE Network, 30(4), 2016.
 
 # Academic Activites
 *  TPC member, USENIX NSDI 2025.
-*  TPC member, IEEE IWQoS 2024.
+*  TPC member, IEEE IWQoS 2024, 2025.
 *  TPC member, ACM MobiCom-LEO-NET 2024.
 *  TPC member, ACM MobiCom-SATCOM 2023.
 *  TPC member, VARSE 2023.
@@ -200,7 +200,8 @@ Android, Java, C/C++, Matlab, Unity 3D.
 *  2009.9–2013.7, Bachelor，University of Electrical and Science Technology of China，Computer Science and Engineering，Information Security.
 
 # Working Experience
-*  2022.01-Now, Assistant Profrssor, Institute for Network Sciences and Cyberspace, Tsinghua University.
+*  2025.01-Now, Associate Professor, Institute for Network Sciences and Cyberspace, Tsinghua University.
+*  2022.01-2024.12, Assistant Profrssor, Institute for Network Sciences and Cyberspace, Tsinghua University.
 *  2019.12-2021.12, Assistant Researcher (Shuimu Tsinghua Scholar Program), Institute for Network Sciences and Cyberspace, Tsinghua University.
 *  2018.07-2019.11, Tencent, Media Lab, Senior Researcher.
 
