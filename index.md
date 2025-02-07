@@ -29,6 +29,8 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 2. Yangtao Deng, Qian Wu, `Zeqi Lai` Chenwei Gu, Hewu Li, Yuanjie Li, Jun Liu, "Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures", in Network and Distributed System Security (NDSS) Symposium 2025 (to appear).
 
+3. Qi Zhang, Qian Wu, `Zeqi Lai`, Jihao Li, Hewu Li, Yuyu Liu, Yuanjie Li, Jun Liu, "Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching", in ACM Web Conference (WWW) 2025 (to appear).
+
 
 ##  2024
 
