@@ -27,7 +27,7 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 1. Chenwei Gu, Qian Wu, `Zeqi Lai`, Hewu Li, Yuxuan Weng, Weisen Liu, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks", in IEEE International Conference on Computer Communications (INFOCOM) 2025 (to appear).
 
-2. Yangtao Deng, Qian Wu, `Zeqi Lai` Chenwei Gu, Hewu Li, Yuanjie Li, Jun Liu, "Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures", in Network and Distributed System Security (NDSS) Symposium 2025 (to appear).
+2. Yangtao Deng, Qian Wu, `Zeqi Lai` Chenwei Gu, Hewu Li, Yuanjie Li, Jun Liu, "Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures", in Network and Distributed System Security (NDSS) Symposium 2025.
 
 3. Qi Zhang, Qian Wu, `Zeqi Lai`, Jihao Li, Hewu Li, Yuyu Liu, Yuanjie Li, Jun Liu, "Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching", in ACM Web Conference (WWW) 2025 (to appear).
 
