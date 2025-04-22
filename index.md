@@ -14,6 +14,8 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 * `Students:` I am looking for PhD/master students (will enroll in fall 2026) to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
 
+* `Hiring:` We currently have openings for research and engineering positions on our team. Feel free to get in touch.
+
 
 # Research Topics
 
@@ -29,7 +31,9 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 2. Yangtao Deng, Qian Wu, `Zeqi Lai` Chenwei Gu, Hewu Li, Yuanjie Li, Jun Liu, "Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures", in Network and Distributed System Security (NDSS) Symposium 2025.
 
-3. Qi Zhang, Qian Wu, `Zeqi Lai`, Jihao Li, Hewu Li, Yuyu Liu, Yuanjie Li, Jun Liu, "Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching", in ACM Web Conference (WWW) 2025 (to appear).
+3. Qi Zhang, Qian Wu, `Zeqi Lai`, Jihao Li, Hewu Li, Yuyu Liu, Yuanjie Li, Jun Liu, "Spache: Accelerating Ubiquitous Web Browsing via Schedule-Driven Space Caching", in ACM Web Conference (WWW) 2025.
+
+4. Weisen Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Yuxuan Weng, Wei Liu, Qi Zhang, Jihao Li, Yuanjie Li, Jun Liu, "Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks", in IEEE S&P 2025 (to appear).
 
 
 ##  2024
@@ -168,9 +172,12 @@ and challenges. IEEE Network, 30(4), 2016.
 
 3. ISS BoF (Internet Storage Sync) IETF-94 (Yokohama) ([https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf](https://www.ietf.org/proceedings/94/slides/slides-94-iss-0.pdf)), ([https://irtf.org/raim-2015-slides/ic/lai.pdf](https://irtf.org/raim-2015-slides/ic/lai.pdf))
 
+4. Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control (IETF-122, iccrg) ([https://datatracker.ietf.org/doc/slides-122-iccrg-mind-the-misleading-effects-of-leo-mobility-on-end-to-end-congestion-control/])(https://datatracker.ietf.org/doc/slides-122-iccrg-mind-the-misleading-effects-of-leo-mobility-on-end-to-end-congestion-control/)
+
 
 # Academic Activites
-*  TPC member, USENIX NSDI 2025.
+*  TPC member, USENIX NSDI 2025, 2026.
+*  TPC member, LEONet 2025.
 *  TPC member, IEEE IWQoS 2024, 2025.
 *  TPC member, ACM MobiCom-LEO-NET 2024.
 *  TPC member, ACM MobiCom-SATCOM 2023.
