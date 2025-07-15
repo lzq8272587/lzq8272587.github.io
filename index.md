@@ -35,6 +35,14 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 4. Weisen Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Yuxuan Weng, Wei Liu, Qi Zhang, Jihao Li, Yuanjie Li, Jun Liu, "Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks", in IEEE Symposium on Security and Privacy (S&P) 2025.
 
+5. `Zeqi Lai`, Zonglun Li, Qian Wu, Hewu Li, Jihao Li, Xin Xie, Yuanjie Li, Jun Liu, Jianping Wu, "LeoCC: Making Internet Congestion Control Robust to LEO Satellite Dynamics", in ACM Special Interest Group on Data Communication (SIGCOMM) 2025 (to appear).
+
+6. Wei Liu, Yuanjie Li, Jingyi Lan, Hewu Li, Yimei Chen, Lixin Liu, Jiabo Yang, Xi Long, Li Ouyang, Minghao Tang, Jianping Wu, Qian Wu, Jun Liu, `Zeqi Lai`, "Direct-to-Cell Satellite Network without Satellite Navigation", in ACM Special Interest Group on Data Communication (SIGCOMM) 2025 (to appear).
+
+7. Yuanjie Li, Yimei Chen, Jiabo Yang, Jinyao Zhang, Bowen Sun, Lixin Liu, Hewu Li, Jianping Wu, `Zeqi Lai`, Qian Wu, Jun Liu, "Small-scale LEO Satellite Networking for Global-scale Demands", in ACM Special Interest Group on Data Communication (SIGCOMM) 2025 (to appear).
+
+8. Yibo Wang, Yunan Hou, `Zeqi Lai`, Hewu Li, Qian Wu, Jun Liu, Yuanjie Li, Xin Xie, Zhifeng Han, "How LLM Saved Me from Struggling with Experiment Reproduction: LEO Networking as A Case Study", The 3rd ACM Workshop on LEO Networking and Communication (LEONET) 2025 (to appear).
+
 
 ##  2024
 
