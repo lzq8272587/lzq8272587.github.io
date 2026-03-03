@@ -10,9 +10,9 @@ I am currently an associate professor at the [Institute for Network Sciences and
 
 After graduating from Tsinghua University, my first job was as a senior researcher at Tencent Media Lab from July 2018 to Nov 2019. Together with my excellent colleagues, we designed and implemented a flexible and low-latency network engine called Peregrine Falcon (the bird that can achieve the greatest airspeed in the world!), which was later used by [WeMeet/VooV](https://voovmeeting.com/), a large-scale commercial videoconferencing application. I led the protocol design and congestion control algorithms in Peregrine. The Peregrine engine has served hundreds of millions of real-time communication (RTC) users.
 
-Working at Tencent and building a useful and impactful system is a great memory for me. As Peregrine gradually matured and improved, I began to look for new and more challenging research problems. At the end of 2019, I returned to Tsinghua and worked with Prof. Hewu Li and Qian Wu. In addition to previous research interests including computer networks, wireless/mobile computing, and video streaming, I started my research on integrated space and terrestrial networks (ISTN). More specifically, I focus on networking technologies such as topology design, routing, traffic engineering, end-to-end transmission control, emerging applications (e.g. pushing CDNs, edge computing, and ML/AI to satellites!), network security, and experiment methodologies for satellite Internet constellations. Our works have been published at conferences/journals such as ACM MobiCom, USENIX NSDI, IEEE INFOCOM, ACM WWW, NDSS, IEEE ICNP, IEEE ToN, and IEEE TMC.
+Working at Tencent and building a useful and impactful system is a great memory for me. As Peregrine gradually matured and improved, I began to look for new and more challenging research problems. At the end of 2019, I returned to Tsinghua and worked with Prof. Hewu Li and Qian Wu. In addition to previous research interests including computer networks, wireless/mobile computing, and video streaming, I started my research on integrated space and terrestrial networks (ISTN). More specifically, I focus on networking technologies such as topology design, routing, traffic engineering, end-to-end transmission control, emerging applications (e.g. pushing CDNs, edge computing, and ML/AI to satellites!), network security, and experiment methodologies for satellite Internet constellations. Our works have been published at conferences/journals such as ACM SIGCOMM, ACM MobiCom, USENIX NSDI, IEEE S&P, NDSS, IEEE INFOCOM, ACM WWW, IEEE ICNP, IEEE ToN, and IEEE TMC.
 
-* `Students:` I am looking for PhD/master students (will enroll in fall 2026) to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
+* `Students:` I am looking for PhD/master students (will enroll in fall 2027) to join our exciting system and networking projects. Experience with system programming is a big plus. Feel free to contact me!
 
 * `Hiring:` We currently have openings for research and engineering positions on our team. Feel free to get in touch.
 
@@ -24,6 +24,18 @@ Working at Tencent and building a useful and impactful system is a great memory 
 # Selected Publications 
 
 * ([Google Scholar](https://scholar.google.com/citations?user=rH0hRIcAAAAJ&hl=en))
+
+##  2026
+
+1.`Zeqi Lai`, Yunan Hou, Boxuan Hu, Qian Wu, Jun Liu, Rui Chen, "Seamless Inter-Constellation Sharing via Handover-Aware Space-Ground Association", in IEEE International Conference on Computer Communications (INFOCOM) 2026.
+
+2. Yijie Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Yuanjie Li, Jun Liu, "RAS: Reconfiguration-aware Adaptive Video
+Streaming over Satellite Networks", in IEEE Wireless Communications and Networking Conference (WCNC) 2026.
+
+3. Lixin Liu, Jinyao Zhang, Bijia You, Yimei Chen, Jiabo Yang, Yuanjie Li, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, "CrowdLink: Unlocking Idle LEO Network Capacity with User Terminals", in New Ideas in Networked Systems (NINeS) 2026.
+
+4. Wei Liu, Jingyi Lan, Yuanjie Li, Bowen Sun, Yekai Dong, Yufeng Wang, Hewu Li, Qian Wu, `Zeqi Lai`, Jun Liu, "A Variegated Look at Direct-to-Cell Satellites in the Wild", in ACM SIGMETRICS 2026.
+
 
 ##  2025
 
@@ -184,9 +196,10 @@ and challenges. IEEE Network, 30(4), 2016.
 
 
 # Academic Activites
-*  TPC member, USENIX NSDI 2025, 2026.
+*  TPC member, USENIX NSDI 2025, 2026, 2027.
+*  TPC member, ACM CCS 2026.
 *  TPC member, LEONet 2025.
-*  TPC member, IEEE IWQoS 2024, 2025.
+*  TPC member, IEEE IWQoS 2024, 2025, 2026.
 *  TPC member, ACM MobiCom-LEO-NET 2024.
 *  TPC member, ACM MobiCom-SATCOM 2023.
 *  TPC member, VARSE 2023.
@@ -194,6 +207,7 @@ and challenges. IEEE Network, 30(4), 2016.
 
 # Awards
 
+*  ACM SIGCSE China Star Award 2026.
 *  Selected for the Young Talent Support Program by the China Institute of Communications (2023–2025). (中国通信学会2023-2025年度“青年托举计划”).
 *  Outstanding Paper Award at USENIX NSDI 2024.
 *  First Prize, Science and Technology Award, China Institute of Communications, "Key Technologies and Applications for End-to-End Latency-Sensitive Transmission in Internet Streaming Media", 2024. (互联网流媒体端到端时延敏感传送关键技术及应用，中国通信学会科学技术一等奖).
