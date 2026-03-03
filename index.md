@@ -27,7 +27,7 @@ Working at Tencent and building a useful and impactful system is a great memory 
 
 ##  2026
 
-1.`Zeqi Lai`, Yunan Hou, Boxuan Hu, Qian Wu, Jun Liu, Rui Chen, "Seamless Inter-Constellation Sharing via Handover-Aware Space-Ground Association", in IEEE International Conference on Computer Communications (INFOCOM) 2026.
+1. `Zeqi Lai`, Yunan Hou, Boxuan Hu, Qian Wu, Jun Liu, Rui Chen, "Seamless Inter-Constellation Sharing via Handover-Aware Space-Ground Association", in IEEE International Conference on Computer Communications (INFOCOM) 2026.
 
 2. Yijie Liu, `Zeqi Lai`, Qian Wu, Hewu Li, Yuanjie Li, Jun Liu, "RAS: Reconfiguration-aware Adaptive Video
 Streaming over Satellite Networks", in IEEE Wireless Communications and Networking Conference (WCNC) 2026.
